@@ -11,3 +11,6 @@ Terminal based dictionary
 From terminal run the script with a word as a argument
 
 `dictionary.py <word>`
+
+
+![](ss.png)
