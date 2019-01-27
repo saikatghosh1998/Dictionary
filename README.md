@@ -3,5 +3,5 @@ Terminal based dictionary
 
 
 ## Dependencies
-requests
-bs4
+- requests
+- bs4
